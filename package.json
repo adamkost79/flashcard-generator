@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "json package for project",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamkost79/flashcard-generator.git"
+  },
+  "author": "Adam Kost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamkost79/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/adamkost79/flashcard-generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.1"
+  }
+}
