@@ -48,6 +48,6 @@ fs.readFile("cards.txt", "utf8", function(error, data) {
   for (var i = 0; i < output.length; i++) {
 
     // Print each element (item) of the array/
-    console.log(output[i]);
+    // console.log(output[i]);
   }
 });
