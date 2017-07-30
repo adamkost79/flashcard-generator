@@ -1,0 +1,15 @@
+{
+  "text": "pizza",
+  "cloze": "pizza",
+  "present": "___________________"
+}
+{
+  "text": "The capital of Texas is Austin",
+  "cloze": "Austin",
+  "present": "The capital of Texas is ___________________"
+}
+{
+  "text": "The capital of New York is Albany ",
+  "cloze": "Albany",
+  "present": "The capital of New York is ___________________ "
+}
